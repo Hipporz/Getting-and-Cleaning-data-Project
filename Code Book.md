@@ -20,9 +20,14 @@ This is the code book explains each column name and row name in the tidy dataset
 
 ### Here is a decription of activity_labels
 
--1 WALKING
--2 WALKING_UPSTAIRS
--3 WALKING_DOWNSTAIRS
--4 SITTING
--5 STANDING
--6 LAYING
+1 WALKING
+
+2 WALKING_UPSTAIRS
+
+3 WALKING_DOWNSTAIRS
+
+4 SITTING
+
+5 STANDING
+
+6 LAYING
