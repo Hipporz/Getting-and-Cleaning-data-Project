@@ -3,6 +3,7 @@ Getting-and-Cleaning-data-Project
 ##This is the readme file explaining how all of the scripts work and how they are connected.
 
 --List of files:
+xx
 1.'Tidy data.txt': 
 2.'All data.txt':
 3.'run_analysis.R':
