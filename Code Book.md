@@ -1,4 +1,4 @@
-Getting-and-Cleaning-data-Project
+Code Book
 =================================
 This is the code book explains each column name and row name in the tidy dataset.
 
